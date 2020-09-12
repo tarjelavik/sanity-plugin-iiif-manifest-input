@@ -1,6 +1,8 @@
 # Sanity Plugin IIIF Manifest Input
 
-Add a IIIF viewer for IIIF Manifest urls-
+Add a IIIF viewer for IIIF Manifest urls.
+
+You might get CORS issues with this plugin. api.nb.no at least makes IIIF a bit easier :-).
 
 ## Installation
 
