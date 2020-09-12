@@ -38,6 +38,7 @@
     "babel-preset-env": "^1.6.1"
   },
   "dependencies": {
-    "mirador": "^3.0.0-rc.5"
+    "mirador": "^3.0.0-rc.5",
+    "openseadragon-react-viewer": "^2.0.2"
   }
 }
