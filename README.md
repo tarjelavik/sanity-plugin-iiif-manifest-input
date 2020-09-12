@@ -1,6 +1,6 @@
 # Sanity Plugin IIIF Manifest Input
 
-Display colors for editors to choose from with this custom input component.
+Add a IIIF viewer for IIIF Manifest urls-
 
 ## Installation
 
@@ -13,7 +13,7 @@ Display colors for editors to choose from with this custom input component.
   title: "IIIF Manifest",
   description: "URL to the manifest",
   name: "iiifManifest",
-  type: "iiifManifest", // required
+  type: "iiifManifest", // <- The important part
 },
 ...
 ```

@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:tarjelavik/sanity-plugin-iiif-manifest-input.git"
   },
   "keywords": [
     "sanity",
@@ -21,9 +21,9 @@
   "author": "Tarje Sælen Lavik",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/tarjelavik/sanity-plugin-iiif-manifest-input/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/tarjelavik/sanity-plugin-iiif-manifest-input",
   "peerDependencies": {
     "@sanity/form-builder": "^0.144.0",
     "@sanity/components": "^0.144.0",
