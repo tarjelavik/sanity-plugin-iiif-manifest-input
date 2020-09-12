@@ -1,4 +1,4 @@
-import IIIFManifestInput from "../lib";
+import IIIFManifestInput from ".";
 
 export default {
   name: "iiifManifest",
