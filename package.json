@@ -1,0 +1,40 @@
+{
+  "name": "sanity-plugin-iiif-manifest-input",
+  "version": "0.0.0",
+  "description": "A custom input component for displaying IIIF Manifests.",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d lib --copy-files",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KimPaow/sanity-color-list.git"
+  },
+  "keywords": [
+    "sanity",
+    "sanityio",
+    "sanity.io",
+    "iiif"
+  ],
+  "author": "Tarje Sælen Lavik",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "peerDependencies": {
+    "@sanity/form-builder": "^0.144.0",
+    "@sanity/components": "^0.144.0",
+    "react": "^16.12.0",
+    "prop-types": "^15.7.2"
+  },
+  "devDependencies": {
+    "babel-cli": "6.26.0",
+    "babel-preset-es2015": "6.24.1",
+    "babel-preset-react": "6.24.1"
+  },
+  "dependencies": {
+    "mirador": "^3.0.5"
+  }
+}
