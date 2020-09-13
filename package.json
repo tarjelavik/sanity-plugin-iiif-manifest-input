@@ -1,6 +1,6 @@
 {
   "name": "sanity-plugin-iiif-manifest-input",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A custom input component for displaying IIIF Manifests.",
   "main": "index.js",
   "scripts": {
