@@ -40,9 +40,10 @@ export default class IIIFManifestInput extends React.Component {
             onChange={this.handleChange}
           />
         </FormField>
+        {value && (
         <div className={styles.container}>
-          <IIIFManifest manifest={value || ""} />
-        </div>
+          <IIIFManifest manifest={value} />
+        </div>)}
       </div>
     )
   }
